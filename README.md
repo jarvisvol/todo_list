@@ -15,6 +15,8 @@ CREATE TABLE `todo_list` (
   UNIQUE KEY `id_UNIQUE` (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=42 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
+run composer install
+
 
 open terminal 
 in root folder 
